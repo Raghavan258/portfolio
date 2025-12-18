@@ -3,7 +3,7 @@
 This repository contains the source code for my personal portfolio website, which showcases my academic background, technical skills, and selected projects in Artificial Intelligence, Embedded Systems, IoT, and Web Development.
 
 🔗 **Live Website:**  
-https://portfolio-gray-mu-gf4ynya6as.vercel.app/
+https://portfolio-3oos.vercel.app/
 
 ---
 
