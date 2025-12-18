@@ -80,6 +80,8 @@ const SKILLS = {
   "Programming Languages": ["Python", "C", "C++", "Java", "JavaScript"],
   "Embedded & IoT": [
     "Arduino",
+    "ESP32",
+    "Raspberry Pi",
     "Sensors (DHT, LDR, Soil Moisture)",
     "Motor Drivers (L293D)",
     "Bluetooth HC-05",
