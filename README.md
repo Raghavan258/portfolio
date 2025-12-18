@@ -1,16 +1,44 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains the source code for my personal portfolio website, which showcases my academic background, technical skills, and selected projects in Artificial Intelligence, Embedded Systems, IoT, and Web Development.
 
-Currently, two official plugins are available:
+🔗 **Live Website:**  
+https://portfolio-gray-mu-gf4ynya6as.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 👤 About Me
+I am a B.Tech student in Artificial Intelligence & Data Science with a strong interest in Embedded Systems, IoT, Autonomous Systems, and Computer Vision. I enjoy building practical, real-world systems that combine hardware, software, and intelligent decision-making.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧩 Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔹 Object Detection in TORCS Simulator
+Computer vision–based object detection implemented in the TORCS racing simulator using OpenCV, serving as a foundation for autonomous driving perception.
+
+### 🔹 EcoSense – Smart Campus Ecosystem (Hackathon)
+A smart campus solution using distributed air quality monitoring, IoT-based emergency communication, and environmental awareness dashboards.
+
+### 🔹 Indian Constitution Awareness Portal (Hackathon)
+A role-based web platform developed to promote awareness of the Indian Constitution with different user roles such as Admin, Educator, Citizen, and Legal Expert.
+
+### 🔹 Automated Greenhouse System
+An embedded system that automatically controls temperature, irrigation, and lighting using sensor-based automation.
+
+### 🔹 Multipurpose Agriculture Robot
+A Bluetooth-controlled agricultural robot with automatic irrigation using a soil moisture sensor.
+
+---
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- Python
+- Arduino / Embedded C++
+- MongoDB
+- OpenCV
+- IoT Sensors & Microcontrollers
+
+---
+
+## 📁 Repository Structure
